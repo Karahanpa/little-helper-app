@@ -1,0 +1,17 @@
+.weather {
+    height:100%;
+    text-align:center;
+  }
+
+  .weather input:focus {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .weather button{
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color:#2A95FE;
+    color:white;
+    border:0;
+    padding:8px;
+  }
