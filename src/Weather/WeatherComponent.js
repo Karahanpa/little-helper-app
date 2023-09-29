@@ -42,7 +42,7 @@ const WeatherComponent = ({city = "Izmir"}) => {
             placeholder="Enter city"
             onChange={handleChange}></input>
             <button
-            onClick={handleClick}>Press to fetch</button>
+            onClick={handleClick}>Look up</button>
             <p>{weatherData.location.name}, {weatherData.location.country}</p>
             <p>{weatherData.current.temp_c} Degrees</p>
             <p>{weatherData.location.localtime}</p>
