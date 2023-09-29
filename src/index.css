@@ -48,12 +48,27 @@ button:active {
   body {
     font-size:1rem;
   }
-
+  
   #add {
     width:60px;
   }
-
+  
   div.timer button {
-    width:70px;
+    width:110px;
+  }
+  
+  .wrapper {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border:none;
+    margin-top:0;
+  }
+  .timer {
+    border-top:1px solid grey;
+    border-left:none;
+  }
+  .weather {
+    height:80%;
   }
 }
