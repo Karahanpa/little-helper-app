@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/little-helper-app/static/css/main.dccd4acd.css",
-    "main.js": "/little-helper-app/static/js/main.64bacdbd.js",
+    "main.css": "/little-helper-app/static/css/main.9dee5261.css",
+    "main.js": "/little-helper-app/static/js/main.475a6ed7.js",
     "static/js/787.d9312eb8.chunk.js": "/little-helper-app/static/js/787.d9312eb8.chunk.js",
     "index.html": "/little-helper-app/index.html",
-    "main.dccd4acd.css.map": "/little-helper-app/static/css/main.dccd4acd.css.map",
-    "main.64bacdbd.js.map": "/little-helper-app/static/js/main.64bacdbd.js.map",
+    "main.9dee5261.css.map": "/little-helper-app/static/css/main.9dee5261.css.map",
+    "main.475a6ed7.js.map": "/little-helper-app/static/js/main.475a6ed7.js.map",
     "787.d9312eb8.chunk.js.map": "/little-helper-app/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dccd4acd.css",
-    "static/js/main.64bacdbd.js"
+    "static/css/main.9dee5261.css",
+    "static/js/main.475a6ed7.js"
   ]
 }
